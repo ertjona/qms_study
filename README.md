@@ -25,7 +25,7 @@ flowchart LR
 |----------------|-------------------------|---------------------|----------------------|
 | REQ001 | The system shall allow users to create a new account | User Acceptance Testing | Pass |
 | REQ002 | The system shall allow users to log in using their email and password | Integration Testing | Pass |
-| REQ003 | The system shall allow users to reset their password | User Acceptance Testing | Fail |
+| REQ003 | The system shall allow users to reset their password | User Acceptance Testing | Pass |
 | REQ004 | The system shall allow users to update their account information | User Acceptance Testing | Pass |
 | REQ005 | The system shall display a dashboard with real-time analytics | System Testing | Pass |
 | REQ006 | The system shall generate a weekly report for management | System Testing | Pass |

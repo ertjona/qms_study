@@ -30,3 +30,5 @@ flowchart LR
 | REQ005 | The system shall display a dashboard with real-time analytics | System Testing | Pass |
 | REQ006 | The system shall generate a weekly report for management | System Testing | Pass |
 | REQ007 | The system shall integrate with the company's existing CRM system | Integration Testing | Fail |
+| REQ008 | The system shall support Windows 10/11 | System Testing | Pass |
+
